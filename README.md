@@ -6,9 +6,9 @@ This project aims to classify images into real and fake faces using Convolutiona
 
 The dataset consists of images of both real and fake faces. It is split into training, validation, and test sets. The distribution of images in each dataset is as follows:
 
-- Training: [Number of images]
-- Validation: [Number of images]
-- Test: [Number of images]
+- Training: 100,000 images
+- Validation: 20,000 images
+- Test: 20,000 images
 
 ## Preprocessing
 
